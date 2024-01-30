@@ -2,10 +2,6 @@
 <h3 align="center">Aspiring Data Analyst | Expertise in Data Cleaning, Analysis & Visualization</h3>
 
 - 🌱 I’m currently learning **Data Analysis | SQL | PowerBI | Python | Excel**
-  
-- Project on MS Excel : [Superstore Orders Data Analysis using Excel](https://github.com/NirajPawar2004/Superstore-Sales-Data-Analysis-Using-Excel)
-
-- Project on MS PowerBI :  [Ecommerce Sales Data Analysis with PowerBI](https://github.com/NirajPawar2004/Ecommerce-Sales-Analysis-using-MS-PowerBI)
 
 - E-Mail on: **nirajdilippawar77@gmail.com**
 
