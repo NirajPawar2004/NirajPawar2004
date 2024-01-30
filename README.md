@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nirajpawar2004&label=Profile%20views&color=0e75b6&style=flat" alt="nirajpawar2004" /> </p>
 <h1 align="center">Hi 👋, I'm NIRAJ PAWAR</h1>
 <h3 align="center">Aspiring Data Analyst | Expertise in Data Cleaning, Analysis & Visualization</h3>
 
