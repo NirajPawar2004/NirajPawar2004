@@ -1,21 +1,56 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nirajpawar2004&label=Profile%20views&color=0e75b6&style=flat" alt="nirajpawar2004" /> </p>
-<h1 align="center">Hi 👋, I'm NIRAJ PAWAR</h1>
-<h3 align="center">Aspiring Data Analyst | Expertise in Data Cleaning, Analysis & Visualization</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <title>Niraj Pawar - Aspiring Data Scientist</title>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirajpawar2004&label=Profile%20views&color=0e75b6&style=flat" alt="nirajpawar2004" /> </p>
+    <!-- Name and Job Role -->
+    <h1>👨‍💻 Niraj Pawar</h1>
+    <h2>✨ Aspiring Data Scientist ✨</h2>
+    <p><em>Turning data into decisions, one dataset at a time.</em></p>
+    <!-- About Me -->
+    <h2>👋 About Me</h2>
+    <p>Hello! I'm <strong>Niraj Pawar</strong>, Hi, I'm Niraj Pawar, currently pursuing a Bachelor of Computer Applications (BCA) at Sandip University, Nashik. Alongside my degree, I'm enrolled in a 12-month Data Science and AI certification program with SkillArbitrage to enhance my skills and accelerate my career growth.
 
-- 🌱 I’m currently learning **Data Analysis | SQL | PowerBI | Python | Excel**
-
-- E-Mail on: **nirajdilippawar77@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/niraj-pawar-33115b296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" https://www.linkedin.com/in/niraj-pawar-33115b296/ " height="30" width="40" /></a>
-<a href="https://instagram.com/niraj_pawar2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niraj_pawar2004" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" alt="python" width="40" height="40"/> </a> 
-<img src="https://raw.githubusercontent.com/sempostma/office365-icons/4ef2ee3dc5705f4ab23bc5fc7f236884d0bc10f3/svg/excel.svg" alt="python" width="40" height="40"/> </a> </p>
-
+My ultimate aspiration is to become a Data Scientist, leveraging data to uncover insights, solve problems, and drive innovation. I'm passionate about learning, exploring data, and building solutions that make an impact..</p>
+    <!-- Education -->
+    <h2>🎓 Education</h2>
+    <ul>
+        <li><strong>Sandip University Nashik</strong>: Bachelor of Computer Application (2022-2025)</li>
+        <li><strong>Professional Certification Course</strong>: 12-Month Program in Data Science & AI</li>
+    </ul>
+    <!-- Skills -->
+    <h2>🛠️ Skills</h2>
+    <ul>
+        <li>Programming: Python, SQL</li>
+        <li>Libraries: Pandas, Numpy, Matplotlib, Seaborn</li>
+        <li>Core Skills: Data Cleaning, Web Scraping, Feature Engineering </li>
+        <li>Data Visualization: Power BI, Tableau, Interactive Dashboards</li>
+        <li>Data Analysis Tools: MS Excel, MS PowerBI, Jupyter Notebook, SQL Workbench</li>
+    </ul>
+    <!-- Work Experience -->
+    <h2>💼 Work Experience</h2>
+    <ul>
+        <li><strong>Data Science Intern</strong> at <strong>Unmessenger</strong> (Remote)</li>
+    </ul>
+    <!-- Certifications -->
+    <h2>🏆 Certifications</h2>
+    <div>
+        <img src="https://github.com/NirajPawar2004/NirajPawar2004/blob/main/Semester_1-Niraj_Dilip_Pawar_page-0001.jpg" alt="Certification 1" width="150">
+        <img src="https://github.com/NirajPawar2004/NirajPawar2004/blob/main/Semester_2-Niraj_Dilip_Pawar_page-0001.jpg" alt="Certification 2" width="150">
+        <img src="https://github.com/NirajPawar2004/NirajPawar2004/blob/main/Hackerrank%20Python_Basic%20Certification_page-0001.jpg" alt="Certification 3" width="150">
+        <img src="https://github.com/NirajPawar2004/NirajPawar2004/blob/main/GUVI_PYTHON_CERTIFICATION.png" alt="Certification 3" width="150">
+        <img src="https://github.com/NirajPawar2004/NirajPawar2004/blob/main/EXCEL%20CERTIFICATE_page-0001.jpg" alt="Certification 3" width="150">
+    </div>
+    <!-- Connect With Me -->
+    <h2>🌐 Connect With Me</h2>
+    <ul>
+        <li><a href="https://github.com/NirajPawar2004" target="_blank">GitHub Profile</a></li>
+        <li><a href="https://www.linkedin.com/in/nirajpawar2004/" target="_blank">LinkedIn Profile</a></li>
+    </ul>
+    </div>
+</body>
+</html>
