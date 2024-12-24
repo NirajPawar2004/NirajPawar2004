@@ -39,6 +39,7 @@ My ultimate aspiration is to become a Data Scientist, leveraging data to uncover
     <!-- Certifications -->
     <h2>🏆 Certifications</h2>
     <div>
+        <img src="https://github.com/NirajPawar2004/NirajPawar2004/blob/main/Final_Exam-Niraj_Dilip_Pawar_page-0001.jpg" alt="Certification" width="150">
         <img src="https://github.com/NirajPawar2004/NirajPawar2004/blob/main/Semester_1-Niraj_Dilip_Pawar_page-0001.jpg" alt="Certification 1" width="150">
         <img src="https://github.com/NirajPawar2004/NirajPawar2004/blob/main/Semester_2-Niraj_Dilip_Pawar_page-0001.jpg" alt="Certification 2" width="150">
         <img src="https://github.com/NirajPawar2004/NirajPawar2004/blob/main/Semester_3-Niraj_Dilip_Pawar_page-0001.jpg" alt="Certification 2" width="150">
