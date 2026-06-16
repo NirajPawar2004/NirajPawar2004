@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <title>Niraj Pawar - Aspiring Data Scientist</title>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirajpawar2004&label=Profile%20views&color=0e75b6&style=flat" alt="nirajpawar2004" /> </p>
     <!-- Name and Job Role -->
     <h1>👨‍💻 Niraj Pawar</h1>
